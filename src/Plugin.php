@@ -55,7 +55,6 @@ class Plugin extends AbstractPlugin {
 		};
 
 		$url = 'http://downforeveryoneorjustme.com/' . rawurlencode($site);
-		var_dump($url);
 		$this->emitter->emit('http.request', [new Request([
 				'url'             => $url,
 				'resolveCallback' => function ($data) use ($event, $queue, $site, $errorHandler) {
