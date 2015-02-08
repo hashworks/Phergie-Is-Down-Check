@@ -1,5 +1,5 @@
 {
-    "name": "hashworks/PhergieIsDownCheck",
+    "name": "hashworks/phergie-plugin-is-down-check",
     "description": "Phergie plugin to check websites using downforeveryoneorjustme.com.",
     "keywords": [ "phergie", "irc", "bot", "plugin", "downforeveryoneorjustme.com", "isme.up" ],
     "license": "GNU GPL v3.0",
