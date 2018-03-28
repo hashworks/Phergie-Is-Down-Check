@@ -2,9 +2,9 @@
     "name": "hashworks/phergie-plugin-is-down-check",
     "description": "Phergie plugin to check websites using downforeveryoneorjustme.com.",
     "keywords": [ "phergie", "irc", "bot", "plugin", "downforeveryoneorjustme.com", "isme.up" ],
-    "license": "GNU GPL v3.0",
+    "license": "GPL-3.0-or-later",
     "support": {
-        "email": "admin@hashworks.net",
+        "email": "mail@hashworks.net",
         "irc": "irc://irc.freenode.net/phergie",
         "issues": "https://github.com/hashworks/PhergieIsDownCheck/issues",
         "source": "https://github.com/hashworks/PhergieIsDownCheck"
